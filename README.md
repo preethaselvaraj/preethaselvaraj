@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @preethaselvaraj
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Designing 🤳 Blogging😜 Books📚 
+-🦾🦿I'm a Technophile Person🤗
+- 🌱 I’m currently learning UI/UX Designing, Graphic DesiGning
+- 💞️ I’m looking to collaborate on any project based on my intrest i mentioned above👆
+- 📫 How to reach me 
 
 <!---
 preethaselvaraj/preethaselvaraj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
