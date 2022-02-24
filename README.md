@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @preethaselvaraj
 - 👀 I’m interested in Designing 🤳 Blogging😜 Books📚 
 -🦾🦿I'm a Technophile Person🤗
-- 🌱 I’m currently learning UI/UX Designing, Graphic DesiGning
+- 🌱 I’m currently learning UI/UX Designing, Graphic Designing
 - 💞️ I’m looking to collaborate on any project based on my intrest i mentioned above👆
 - 📫 How to reach me 
 
