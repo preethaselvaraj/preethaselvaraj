@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning UI/UX Designing, Graphic Designing
 - 💞️ I’m looking to collaborate on any project based on my intrest i mentioned above👆
 - 📫 How to reach me 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=preethaselvaraj&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Preetha-Selvaraj&theme=dark&show_icons=true)
 
 <!---
 preethaselvaraj/preethaselvaraj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
