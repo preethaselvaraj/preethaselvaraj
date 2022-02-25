@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Preetha
 #### I'm a freelance UI/UX Designer
 ![I'm a freelance UI/UX Designer](https://www.linkedin.com/in/preetha-selvaraj-3719a91b5/)
-
+![github](https://cdn.pixabay.com/photo/2017/11/29/09/15/paint-2985569_960_720.jpg)
 I focus on creating experience that are functional and visually compelling.
 I creating Better Experience For ~~User~~ People
 
