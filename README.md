@@ -8,7 +8,7 @@ I creating Better Experience For People
 ### Skills
 -✍ Blogging
 
--💻 HTML,CSS,SQL,Adobe XD, Illustrator,Figma,Photoshop
+-💻 HTML, CSS, SQL, Adobe XD, Illustrator, Figma, Photoshop
 
 -😜 User Interface and User Experience Designer
 
