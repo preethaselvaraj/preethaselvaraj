@@ -12,7 +12,7 @@ I creating Better Experience For ~~User~~ People
 
 -😜 User Interface and User Experience Designer
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently doing BCA in Sastra
 - 🌱 I’m currently learning UI/UX Designing, Graphic Designing 
 - 👯 I’m looking to collaborate on  any project based on my interest i mentioned above👆 
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/preetha-selvaraj-3719a91b5/)
